@@ -21,8 +21,8 @@ const users = [
 ];
 
 const siteConfig = {
-  title: 'Scanblue 3dCloud documentation', // Title for your website.
-  tagline: 'A website for testing',
+  title: 'Scanblue 3DCloud documentation', // Title for your website.
+  tagline: 'YOUR PRODUCT IN AR & VR',
   url: 'https://docs.scanlue.cloud', // Your website URL
   baseUrl: '/', // Base URL for your project */
   // For github.io type URLs, you would set the url and baseUrl like:
@@ -38,7 +38,7 @@ const siteConfig = {
 
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
-    {doc: 'doc1', label: 'Docs'},
+    {doc: 'integration', label: 'Docs'},
     {doc: 'doc4', label: 'API'},
     {page: 'help', label: 'Help'},
     {blog: true, label: 'Blog'},
@@ -48,14 +48,14 @@ const siteConfig = {
   users,
 
   /* path to images for header/footer */
-  headerIcon: 'img/favicon.ico',
-  footerIcon: 'img/favicon.ico',
-  favicon: 'img/favicon.ico',
+  headerIcon: 'img/favicon.png',
+  footerIcon: 'img/favicon.png',
+  favicon: 'img/favicon.png',
 
   /* Colors for website */
   colors: {
     primaryColor: '#535E36',
-    secondaryColor: '#535E36',
+    secondaryColor: '#082837',
   },
 
   /* Custom fonts for website */
