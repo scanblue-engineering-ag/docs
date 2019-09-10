@@ -89,15 +89,6 @@ class Index extends React.Component {
       </Container>
     );
 
-    const FeatureCallout = () => (
-      <div
-        className="productShowcaseSection paddingBottom"
-        style={{textAlign: 'center'}}>
-        <h2>Feature Callout</h2>
-        <MarkdownBlock>These are features of this project</MarkdownBlock>
-      </div>
-    );
-
     const TryOut = () => (
       <Block id="try">
         {[
@@ -146,16 +137,16 @@ class Index extends React.Component {
       <Block layout="fourColumn">
         {[
           {
-            content: 'Learn how to integrate you 3D model into your website',
+            content: 'Learn how to integrate your 3D model into your website',
             image: `${baseUrl}img/undraw_react.svg`,
             imageAlign: 'top',
-            title: '3D integration',
+            title: '3D Player',
           },
           {
-            content: 'The content of my second feature',
+            content: 'The industry 4.0 is a fully industrial grade 3D optical scanning system by Scanblue Engineering AG',
             image: `${baseUrl}img/undraw_operating_system.svg`,
             imageAlign: 'top',
-            title: 'Feature Two',
+            title: 'Introducing the Industry 4.0',
           },
         ]}
       </Block>
@@ -195,7 +186,6 @@ class Index extends React.Component {
         <HomeSplash siteConfig={siteConfig} language={language} />
         <div className="mainContainer">
           <Features />
-          <FeatureCallout />
           <LearnHow />
           <TryOut />
           <Description />
