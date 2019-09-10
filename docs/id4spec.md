@@ -8,7 +8,6 @@ sidebar_label: Specification
 
 ## Specification
 
-|         | Are           | Cool  |
 | ------------- |:-------------:| -----:|
 | Operating ambient temperature:      | -10° to 60° |
 | Depth Data      |       |    |
@@ -35,7 +34,7 @@ sidebar_label: Specification
 |   | CPU       | 8-core NVIDIA Carmel 64-bit ARMv8.2 @ 2265MHz    |
 |   | GPU       | 512-core NVIDIA Volta @ 1377MHz with 64 TensorCores |
 |   | DL       | Dual NVIDIA Deep Learning Accelerators (DLAs) |
-|   | Memory       | 16GB 256-bit LPDDR4x @ 2133MHz | 137GB/s |
+|   | Memory       | 16GB 256-bit LPDDR4x @ 2133MHz 137GB/s |
 |   | Storage       | 32GB eMMC 5.1 |
 |   | OS       | Ubuntu Linux 16.04 |
 | Body  |       |      |
