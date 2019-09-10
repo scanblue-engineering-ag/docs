@@ -2,6 +2,7 @@
   "docs": {
     "Player": [
       "integration",
+      "dataprotection",
       "changelog"
     ],
     "First Category": ["doc2"],
