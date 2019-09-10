@@ -60,13 +60,10 @@ class HomeSplash extends React.Component {
 
     return (
       <SplashContainer>
-        <Logo img_src={`${baseUrl}img/undraw_monitor.svg`} />
         <div className="inner">
           <ProjectTitle siteConfig={siteConfig} />
           <PromoSection>
-            <Button href="#try">Try It Out</Button>
-            <Button href={docUrl('doc1.html')}>Example Link</Button>
-            <Button href={docUrl('doc2.html')}>Example Link 2</Button>
+            <Button href='https://portal.scanblue.cloud' target="_blank">Create account</Button>
           </PromoSection>
         </div>
       </SplashContainer>
@@ -123,7 +120,7 @@ class Index extends React.Component {
           {
             content:
               'This is another description of how this project is useful',
-            image: `${baseUrl}img/undraw_note_list.svg`,
+            image: `${baseUrl}img/undraw_monitor.svg`,
             imageAlign: 'right',
             title: 'Description',
           },
@@ -149,10 +146,10 @@ class Index extends React.Component {
       <Block layout="fourColumn">
         {[
           {
-            content: 'This is the content of my feature',
+            content: 'Learn how to integrate you 3D model into your website',
             image: `${baseUrl}img/undraw_react.svg`,
             imageAlign: 'top',
-            title: 'Feature One',
+            title: '3D integration',
           },
           {
             content: 'The content of my second feature',
