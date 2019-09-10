@@ -1,5 +1,5 @@
 ---
-id: integration
+id: dataprotection
 title: Scanblue 3D player integration
 sidebar_label: Data Protection
 ---
