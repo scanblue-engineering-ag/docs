@@ -1,7 +1,11 @@
 {
   "docs": {
-    "Integration": ["integration"],
-    "Changelog":["changelog"]
+    "Player": [
+      "integration",
+      "changelog"
+    ],
+    "First Category": ["doc2"],
+    "Second Category": ["doc3"]
   },
   "docs-other": {
     "First Category": ["doc4", "doc5"]
