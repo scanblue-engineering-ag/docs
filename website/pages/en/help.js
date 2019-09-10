@@ -27,7 +27,9 @@ function Help(props) {
       title: 'Browse Docs',
     },
     {
-      content: 'Ask questions about the documentation and project',
+      content: `Ask questions about the documentation and contribute on [github.](${docUrl(
+        'https://github.com/scanblue-engineering-ag/docs',
+      )})`,
       title: 'Join the community',
     },
     {
