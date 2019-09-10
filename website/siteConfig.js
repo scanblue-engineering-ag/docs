@@ -21,7 +21,7 @@ const users = [
 ];
 
 const siteConfig = {
-  title: 'Scanblue 3DCloud documentation', // Title for your website.
+  title: 'scanblue.cloud documentation', // Title for your website.
   tagline: 'YOUR PRODUCT IN AR & VR',
   url: 'https://docs.scanlue.cloud', // Your website URL
   baseUrl: '/', // Base URL for your project */
