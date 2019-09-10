@@ -5,7 +5,7 @@
       "dataprotection",
       "changelog"
     ],
-    "First Category": ["doc2"],
+    "Industry 4.0": ["industry4", "id4spec"],
     "Second Category": ["doc3"]
   },
   "docs-other": {
