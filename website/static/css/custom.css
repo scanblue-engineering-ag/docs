@@ -30,3 +30,16 @@
 .nav-footer{
     background-color: #002230;
 }
+
+/* header tweak with bull image anti-blur */
+@media (min-width: 1023px) {
+
+    .fixedHeaderContainer a img {
+        height: 66px;
+    }
+
+    .fixedHeaderContainer .headerWrapper {
+        padding: 8px 0;
+    }
+
+}
