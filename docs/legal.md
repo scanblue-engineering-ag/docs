@@ -1,4 +1,10 @@
-## Privacy and Compliance
+---
+id: integration
+title: Scanblue 3D player integration
+sidebar_label: Data Protection
+---
+
+## Privacy and Data Protection
 
 The Scanblue Player collects usage data. We use the Microsoft Azure Blob Storage to store Microsoft Azure Monitor and Microsoft Application Insights data and we use a dedicated partition for Application Insights data. The article focuses on the Scanblue Player which only collects applicaton data. 
 
