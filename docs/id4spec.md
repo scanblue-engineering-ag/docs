@@ -1,10 +1,14 @@
 ---
 id: id4spec
-title: Industry 4.0 Specifiaction
+title: Industry 4.0 Specification
 sidebar_label: Specification
 ---
 
+## Feature Highlight
 
+- Super Resolution Images
+- 3D Pointcloud
+- Textures up to 6464 x 4852 px, 31.4 MP
 
 ## Specification
 
@@ -45,3 +49,8 @@ sidebar_label: Specification
 |   | Weight       | TBA | 
 |   | Power       | TBA |
 |   | LAN       | TBA |
+
+## Unsupported Materials for Volumetric Scanning
+
+- Black
+- Glass

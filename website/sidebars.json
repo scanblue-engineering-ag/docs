@@ -1,8 +1,10 @@
 {
   "docs": {
     "Player": [
+      "playerinfo",
       "integration",
       "dataprotection",
+      "faqplayer",
       "changelog"
     ],
     "Industry 4.0": ["industry4", "id4spec"]
